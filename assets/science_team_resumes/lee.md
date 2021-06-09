@@ -16,10 +16,11 @@ Principal Scientist at JPL. Past/current leads for many research projects on oce
 
 ## Experience:
 Jet Propulsion Laboratory
+- 2021 - present: Senior Research Scientist, Jet Propulsion Laboratory
 - 2015 - present: Supervisor, Ocean Circulation and Air-Sea Interaction Group, Jet Propulsion Laboratory
-- 2006 - present: Principal Scientist, Jet Propulsion Laboratory
 - 2013 - 2017: Project Scientist for Aquarius satellite mission, Jet Propulsion Laboratory
 - 2011 - 2015: Supervisor, Oceans and Ice Group, Jet Propulsion Laboratory
+- 2006 - 2021: Principal Scientist, Jet Propulsion Laboratory
 - 1996 - 2006: Scientist, Jet Propulsion Laboratory
 - 1994 - 1996: Postdoctoral Research Associate, Massachusetts Institute of Technology
 
@@ -53,7 +54,7 @@ Jet Propulsion Laboratory
 ## Mentoring Experience:
 Dr. Lee has mentored 3 university Ph.D students, 10 postdocs and 8 early-career researchers (beyond postdoc level) at JPL, and a group of early-career female researchers for the non-profit organization MPOWIR (https://mpowir.org/). 
 
-## Publications (out of a total of 130, Web-of-Science H-Index of 37, Google Scholar H-Index of 47, i10-Index of 115):
+## Selected Publications (out of over 130, Web-of-Science H-Index of 39, Google Scholar H-Index of 48):
 1. Dzwonkowski, B., J. Coogan, S. Fournier, G. Lockridge, K. Park, and T. Lee, 2020: Compounding impact of severe weather events fuels marine heatwave in the coastal ocean. Nature Comm., 11, 4623. https://doi.org/10.1038/s41467-020-18339-2.
 1. Gentemann, C., C.A. Clayson, S. Brown, T. Lee, R. Parfitt, J.T. Farrar, M. Bourassa, P.J. Minnett, H. Seo, S.T. Gille, and V. Zlotnicki, 2020: FluxSat: Measuring the ocean-atmosphere turbulent exchange of heat and moisture from space. Remote Sensing. 12(11), 1796; https://doi.org/10.3390/rs12111796
 1. McPhaden, M.J., T. Lee, S. Fournier, and M.A. Balmaseda, 2020: ENSO Observations, Chpt.3 in: “El Niño Southern Oscillation in a Changing Climate”, M. J. McPhaden, A. Santoso, and W. Cai, Eds.  AGU Geophysical Monograph Series, ISBN: 978-1-119-54812-6. 528pp. Wiley, Hoboken NJ.
